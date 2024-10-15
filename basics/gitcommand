@@ -1,0 +1,4 @@
+#!/bin/bash
+git add .
+git command -m "autocommit"
+igit push
